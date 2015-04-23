@@ -1,0 +1,11 @@
+[user]
+	name = Sergio Rus
+	email = sergio@sergiorus.com
+[color]
+	diff = auto
+[push]
+	default = simple
+[diff]
+	submodule = log
+[status]
+	submodulesummary = 1
