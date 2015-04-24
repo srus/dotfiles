@@ -1,3 +1,3 @@
-# My Linux config files
+# dotfiles
 
-Some config files from `$HOME`.
+Some config files from my `$HOME`.
